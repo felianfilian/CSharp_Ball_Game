@@ -2,8 +2,8 @@
 Ball Game in WPF
 
 # Ziele
-- WPF als Game Engine nutzen
-- Grafische
+* WPF als Game Engine nutzen
+* Grafische
 
 
 
